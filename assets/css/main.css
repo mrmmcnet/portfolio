@@ -1274,34 +1274,13 @@ section,
   /* Add your styles here */
 }
 
-.job-title{
-    font-size:20px;
-    color:#3f4d63;
-    text-transform:uppercase;
-    margin-bottom:5px;
-}
-
-.company-header{
-    display:flex;
-    justify-content:space-between;
-    align-items:flex-start;
-    gap:20px;
-    margin-bottom:5px;
-}
-
 .company{
-    font-size:40px;
-    font-weight:500;
+    font-size:30px;
+    font-weight:600;
     flex:1;
 }
 
 .date{
-    font-size:22px;
+    font-size:18px;
     white-space:nowrap;
-}
-
-.address{
-    font-size:20px;
-    font-style:italic;
-    margin-bottom:20px;
 }
