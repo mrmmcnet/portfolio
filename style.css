@@ -39,3 +39,11 @@ h2{
 color:#0077ff;
 
 }
+.foto-profil {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid white;
+    margin-bottom: 20px;
+}
