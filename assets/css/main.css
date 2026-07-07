@@ -1306,3 +1306,19 @@ section,
     margin-bottom:20px;
 }
 
+.job-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:20px;
+}
+
+.job-header h4{
+    margin:0;
+    flex:1;
+}
+
+.job-header .date{
+    white-space:nowrap;
+    font-weight:600;
+}
